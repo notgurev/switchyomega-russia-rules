@@ -10,10 +10,15 @@
 *.openai.com
 
 ; Torrent trackers
-rutracker.org
+*.rutracker.org
+*.thepiratebay.org
+*.rutor.is
+
+; Instagram
+*.instagram.com
+*.cdninstagram.com
 
 ; Twitter / X
-*twitter.com
 *.twimg.com
 *x.com
 *.twitter.com
@@ -21,4 +26,3 @@ static.ads-twitter.com
 
 ; YouTube: fix grey avatars
 yt3.ggpht.com
-
