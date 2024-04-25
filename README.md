@@ -13,9 +13,15 @@
 
 В разделе "Import online rule lists" нажмите "Add a rule list", и в "Rule List URL" вставьте следующее:
 
-    ```
-    https://raw.githubusercontent.com/notgurev/switchyomega-russia-rules/main/OmegaRules_Russia.sorl
-    ```
+```
+https://raw.githubusercontent.com/notgurev/switchyomega-russia-rules/main/OmegaRules_Russia.sorl
+```
+
+Либо следующее, если хотите использовать более нестабильную ветку:
+
+```
+https://raw.githubusercontent.com/notgurev/switchyomega-russia-rules/dev/OmegaRules_Russia.sorl
+```
 
 Нажмите "Download Profile Now". Готово.
 
