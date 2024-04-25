@@ -26,7 +26,7 @@ rutracker.org
 static.ads-twitter.com
 
 ; YouTube: fix grey avatars
-yt3.ggpht.com
+*.ggpht.com
 
 ; Proton
 protonmail.com
