@@ -11,6 +11,9 @@
 
 Создайте или откройте switch profile через "Profiles > New profile..." с любым именем.
 
+В разделе "Switch rules" поставьте галочку на "Rule list rules" и в столбике "Profile" выберете "proxy" или другой
+самостоятельно настроенный прокси, который переправляет запросы на зарубежный сервер.
+
 В разделе "Import online rule lists" нажмите "Add a rule list", и в "Rule List URL" вставьте следующее:
 
 ```
