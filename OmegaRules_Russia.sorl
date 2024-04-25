@@ -1,0 +1,20 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 4/25/2024
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+; Repository: https://github.com/notgurev/switchyomega-russia-rules
+
+; OpenAI, ChatGPT
+*.oaistatic.com
+*.chatgpt.com
+*.openai.com
+
+; Torrent trackers
+rutracker.org
+
+; Twitter / X
+*twitter.com
+*.twimg.com
+*x.com
+*.twitter.com
+static.ads-twitter.com
