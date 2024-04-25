@@ -10,6 +10,7 @@
 *.openai.com
 
 ; Torrent trackers
+rutracker.org
 *.rutracker.org
 *.thepiratebay.org
 *.rutor.is
