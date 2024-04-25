@@ -18,3 +18,8 @@
     ```
 
 Нажмите "Download Profile Now". Готово.
+
+## Ссылки
+
+- [Формат правил SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/wiki/SwitchyOmega-conditions-format)
+- [Похожий список от dvershinin](https://github.com/dvershinin/switchy-rules)
