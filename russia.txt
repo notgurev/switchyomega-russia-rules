@@ -31,3 +31,7 @@ static.ads-twitter.com
 ; Proton
 protonmail.com
 proton.me
+
+; Mangadex
+*.mangadex.org
+*.gstatic.com
