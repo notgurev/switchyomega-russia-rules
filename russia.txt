@@ -35,3 +35,7 @@ proton.me
 ; Mangadex
 *.mangadex.org
 *.gstatic.com
+
+; Swagger Docs
+*.swagger.io
+
