@@ -39,3 +39,7 @@ proton.me
 ; Swagger Docs
 *.swagger.io
 
+; Dell
+*.dell.com
+*.dellcdn.com
+
