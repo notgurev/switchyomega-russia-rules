@@ -43,3 +43,5 @@ proton.me
 *.dell.com
 *.dellcdn.com
 
+; Intel
+*.intel.com
