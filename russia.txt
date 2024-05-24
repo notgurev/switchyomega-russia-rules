@@ -21,8 +21,9 @@ rutracker.org
 
 ; Twitter / X
 *.twimg.com
-*x.com
+*.x.com
 *.twitter.com
+*.t.co
 static.ads-twitter.com
 
 ; YouTube: fix grey avatars
