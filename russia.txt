@@ -47,3 +47,9 @@ proton.me
 
 ; Intel
 *.intel.com
+
+; Spotify
+*.spotify.com
+*.scdn.co
+*.spotifycdn.com
+
