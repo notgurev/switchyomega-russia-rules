@@ -1,0 +1,53 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+; Repository: https://github.com/notgurev/switchyomega-russia-rules
+
+; OpenAI, ChatGPT
+*.oaistatic.com
+*.chatgpt.com
+*.openai.com
+*.oaiusercontent.com
+
+; Torrent trackers
+*.rutracker.org
+*.thepiratebay.org
+*.rutor.is
+
+; Instagram
+*.instagram.com
+*.cdninstagram.com
+
+; Twitter / X
+*.twimg.com
+*.x.com
+*.twitter.com
+*.t.co
+*.ads-twitter.com
+
+; YouTube: fix grey avatars
+*.ggpht.com
+
+; Proton
+*.protonmail.com
+*.proton.me
+
+; Mangadex
+*.mangadex.org
+*.gstatic.com
+
+; Swagger Docs
+*.swagger.io
+
+; Dell
+*.dell.com
+*.dellcdn.com
+
+; Intel
+*.intel.com
+
+; Spotify
+*.spotify.com
+*.scdn.co
+*.spotifycdn.com
+
