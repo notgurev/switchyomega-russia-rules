@@ -1,34 +1,12 @@
-# SwitchyOmega Russian rules
+# SwitchyOmega Russia rules
 
 Правила для Chrome-расширения SwitchyOmega для пользователей из России. Фильтрует трафик, отправляя через прокси запросы
 только к тем сайтам, которые недоступны из РФ, либо сами ограничивают доступ пользователям из РФ.
 
-## Использование
+Использование: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-Скачайте
-расширение [SwitchyOmega](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
-из магазина Chrome.
-
-Создайте или откройте switch profile через "Profiles > New profile..." с любым именем.
-
-В разделе "Switch rules" поставьте галочку на "Rule list rules" и в столбике "Profile" выберете "proxy" или другой
-самостоятельно настроенный прокси, который переправляет запросы на зарубежный сервер.
-
-В разделе "Import online rule lists" нажмите "Add a rule list", и в "Rule List URL" вставьте следующее:
+Rule List URL:
 
 ```
 https://raw.githubusercontent.com/notgurev/switchyomega-russia-rules/main/russia.txt
 ```
-
-Либо следующее, если хотите использовать более нестабильную ветку:
-
-```
-https://raw.githubusercontent.com/notgurev/switchyomega-russia-rules/dev/russia.txt
-```
-
-Нажмите "Download Profile Now". Готово.
-
-## Ссылки
-
-- [Формат правил SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/wiki/SwitchyOmega-conditions-format)
-- [Похожий список от dvershinin](https://github.com/dvershinin/switchy-rules)

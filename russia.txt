@@ -1,6 +1,5 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 4/25/2024
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Repository: https://github.com/notgurev/switchyomega-russia-rules
 
@@ -11,7 +10,6 @@
 *.oaiusercontent.com
 
 ; Torrent trackers
-rutracker.org
 *.rutracker.org
 *.thepiratebay.org
 *.rutor.is
@@ -25,14 +23,14 @@ rutracker.org
 *.x.com
 *.twitter.com
 *.t.co
-static.ads-twitter.com
+*.ads-twitter.com
 
 ; YouTube: fix grey avatars
 *.ggpht.com
 
 ; Proton
-protonmail.com
-proton.me
+*.protonmail.com
+*.proton.me
 
 ; Mangadex
 *.mangadex.org
