@@ -53,3 +53,6 @@
 
 ; Docker Hub
 *.docker.com
+
+; Buf
+*.buf.build
