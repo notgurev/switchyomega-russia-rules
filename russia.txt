@@ -56,3 +56,10 @@
 
 ; Buf
 *.buf.build
+
+; Know Your Meme
+*.knowyourmeme.com
+
+; Claude
+*.claude.ai
+*.anthropic.com
