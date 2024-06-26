@@ -63,3 +63,6 @@
 ; Claude
 *.claude.ai
 *.anthropic.com
+
+; Quora
+*.quora.com
